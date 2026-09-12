@@ -1,0 +1,122 @@
+[
+  {
+    "query": "return window by category",
+    "strategy": "fixed",
+    "retrieved": [
+      "01_return_window",
+      "04_reverse_pickup",
+      "09_size_exchange"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "return window by category",
+    "strategy": "sentence",
+    "retrieved": [
+      "01_return_window",
+      "04_reverse_pickup",
+      "09_size_exchange"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "COD refund timeline",
+    "strategy": "fixed",
+    "retrieved": [
+      "02_cod_refund",
+      "01_return_window",
+      "06_cancellation"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "COD refund timeline",
+    "strategy": "sentence",
+    "retrieved": [
+      "02_cod_refund",
+      "01_return_window",
+      "06_cancellation"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "delivery SLA",
+    "strategy": "fixed",
+    "retrieved": [
+      "03_delivery_sla",
+      "11_international_shipping",
+      "12_escalation_matrix"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "delivery SLA",
+    "strategy": "sentence",
+    "retrieved": [
+      "03_delivery_sla",
+      "11_international_shipping",
+      "12_escalation_matrix"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "reverse pickup eligibility",
+    "strategy": "fixed",
+    "retrieved": [
+      "04_reverse_pickup",
+      "09_size_exchange",
+      "07_loyalty_points"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "reverse pickup eligibility",
+    "strategy": "sentence",
+    "retrieved": [
+      "04_reverse_pickup",
+      "09_size_exchange",
+      "07_loyalty_points"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "electronics warranty",
+    "strategy": "fixed",
+    "retrieved": [
+      "05_warranty",
+      "10_damaged_item",
+      "01_return_window"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  },
+  {
+    "query": "electronics warranty",
+    "strategy": "sentence",
+    "retrieved": [
+      "05_warranty",
+      "10_damaged_item",
+      "01_return_window"
+    ],
+    "precision_at_3": 0.3333333333333333,
+    "recall_at_3": 1.0,
+    "arithmetic": "1/3=0.333; 1/1=1.000"
+  }
+]

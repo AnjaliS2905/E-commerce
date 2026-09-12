@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+jsonschema
+sentence-transformers
+chromadb
+langgraph
+langgraph-checkpoint-sqlite
+fastmcp
+httpx
+pytest

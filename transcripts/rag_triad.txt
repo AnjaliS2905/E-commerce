@@ -1,0 +1,5 @@
+python evaluation/rag_triad.py
+15 queries covering 12 KB topics plus out-of-scope/edge cases.
+Average context relevance: 4.47/5
+Average groundedness: 4.87/5
+Average answer relevance: 5.00/5

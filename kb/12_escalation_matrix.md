@@ -1,0 +1,3 @@
+Customer-Support Escalation Matrix
+
+Routine policy questions should be handled by the first-line support workflow. Delivery delays, damaged items, payment disputes, or high-value cases may require specialist review when the available records indicate elevated risk. Escalation is recommended when the designed order-risk score crosses the project's documented threshold or when a policy explicitly requires specialist handling.

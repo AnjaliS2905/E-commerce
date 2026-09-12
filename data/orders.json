@@ -1,0 +1,402 @@
+[
+  {
+    "record_id": "NYK-0001",
+    "category": "Apparel",
+    "status": "Placed",
+    "order_value_inr": 14120,
+    "days_since_created": 4,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0002",
+    "category": "Electronics",
+    "status": "Shipped",
+    "order_value_inr": 13287,
+    "days_since_created": 12,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0003",
+    "category": "Home",
+    "status": "Delivered",
+    "order_value_inr": 6558,
+    "days_since_created": 16,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0004",
+    "category": "Footwear",
+    "status": "Returned",
+    "order_value_inr": 15872,
+    "days_since_created": 5,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0005",
+    "category": "Beauty",
+    "status": "Refunded",
+    "order_value_inr": 22516,
+    "days_since_created": 15,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0006",
+    "category": "Apparel",
+    "status": "Placed",
+    "order_value_inr": 11538,
+    "days_since_created": 3,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0007",
+    "category": "Electronics",
+    "status": "Returned",
+    "order_value_inr": 22399,
+    "days_since_created": 20,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0008",
+    "category": "Home",
+    "status": "Refunded",
+    "order_value_inr": 11524,
+    "days_since_created": 0,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0009",
+    "category": "Apparel",
+    "status": "Shipped",
+    "order_value_inr": 12149,
+    "days_since_created": 19,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0010",
+    "category": "Electronics",
+    "status": "Shipped",
+    "order_value_inr": 5996,
+    "days_since_created": 11,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0011",
+    "category": "Home",
+    "status": "Delivered",
+    "order_value_inr": 24208,
+    "days_since_created": 27,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0012",
+    "category": "Apparel",
+    "status": "Delivered",
+    "order_value_inr": 9727,
+    "days_since_created": 15,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0013",
+    "category": "Apparel",
+    "status": "Placed",
+    "order_value_inr": 12882,
+    "days_since_created": 26,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0014",
+    "category": "Beauty",
+    "status": "Delivered",
+    "order_value_inr": 16702,
+    "days_since_created": 7,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0015",
+    "category": "Home",
+    "status": "Delivered",
+    "order_value_inr": 14300,
+    "days_since_created": 7,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0016",
+    "category": "Electronics",
+    "status": "Shipped",
+    "order_value_inr": 13040,
+    "days_since_created": 2,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0017",
+    "category": "Beauty",
+    "status": "Placed",
+    "order_value_inr": 7582,
+    "days_since_created": 3,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0018",
+    "category": "Footwear",
+    "status": "Returned",
+    "order_value_inr": 14559,
+    "days_since_created": 19,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0019",
+    "category": "Electronics",
+    "status": "Refunded",
+    "order_value_inr": 23526,
+    "days_since_created": 26,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0020",
+    "category": "Beauty",
+    "status": "Refunded",
+    "order_value_inr": 12030,
+    "days_since_created": 7,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0021",
+    "category": "Beauty",
+    "status": "Delivered",
+    "order_value_inr": 16904,
+    "days_since_created": 0,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0022",
+    "category": "Electronics",
+    "status": "Placed",
+    "order_value_inr": 16374,
+    "days_since_created": 25,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0023",
+    "category": "Electronics",
+    "status": "Shipped",
+    "order_value_inr": 10219,
+    "days_since_created": 3,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0024",
+    "category": "Footwear",
+    "status": "Refunded",
+    "order_value_inr": 1331,
+    "days_since_created": 28,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0025",
+    "category": "Beauty",
+    "status": "Placed",
+    "order_value_inr": 15741,
+    "days_since_created": 4,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0026",
+    "category": "Electronics",
+    "status": "Returned",
+    "order_value_inr": 10806,
+    "days_since_created": 3,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0027",
+    "category": "Home",
+    "status": "Refunded",
+    "order_value_inr": 20701,
+    "days_since_created": 0,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0028",
+    "category": "Beauty",
+    "status": "Shipped",
+    "order_value_inr": 12037,
+    "days_since_created": 3,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0029",
+    "category": "Apparel",
+    "status": "Returned",
+    "order_value_inr": 4859,
+    "days_since_created": 4,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0030",
+    "category": "Apparel",
+    "status": "Delivered",
+    "order_value_inr": 3824,
+    "days_since_created": 0,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0031",
+    "category": "Beauty",
+    "status": "Shipped",
+    "order_value_inr": 7052,
+    "days_since_created": 22,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0032",
+    "category": "Apparel",
+    "status": "Returned",
+    "order_value_inr": 18152,
+    "days_since_created": 18,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0033",
+    "category": "Home",
+    "status": "Refunded",
+    "order_value_inr": 3800,
+    "days_since_created": 27,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0034",
+    "category": "Electronics",
+    "status": "Refunded",
+    "order_value_inr": 16887,
+    "days_since_created": 12,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0035",
+    "category": "Apparel",
+    "status": "Shipped",
+    "order_value_inr": 13261,
+    "days_since_created": 19,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0036",
+    "category": "Home",
+    "status": "Refunded",
+    "order_value_inr": 8778,
+    "days_since_created": 24,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0037",
+    "category": "Footwear",
+    "status": "Delivered",
+    "order_value_inr": 1854,
+    "days_since_created": 10,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0038",
+    "category": "Home",
+    "status": "Placed",
+    "order_value_inr": 4815,
+    "days_since_created": 30,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0039",
+    "category": "Beauty",
+    "status": "Refunded",
+    "order_value_inr": 7710,
+    "days_since_created": 21,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0040",
+    "category": "Home",
+    "status": "Shipped",
+    "order_value_inr": 22646,
+    "days_since_created": 26,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0041",
+    "category": "Footwear",
+    "status": "Shipped",
+    "order_value_inr": 9547,
+    "days_since_created": 21,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0042",
+    "category": "Footwear",
+    "status": "Delivered",
+    "order_value_inr": 3221,
+    "days_since_created": 14,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0043",
+    "category": "Apparel",
+    "status": "Shipped",
+    "order_value_inr": 3511,
+    "days_since_created": 4,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0044",
+    "category": "Electronics",
+    "status": "Placed",
+    "order_value_inr": 676,
+    "days_since_created": 10,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0045",
+    "category": "Footwear",
+    "status": "Delivered",
+    "order_value_inr": 13876,
+    "days_since_created": 12,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0046",
+    "category": "Beauty",
+    "status": "Delivered",
+    "order_value_inr": 9132,
+    "days_since_created": 16,
+    "delayed_shipment": true
+  },
+  {
+    "record_id": "NYK-0047",
+    "category": "Home",
+    "status": "Delivered",
+    "order_value_inr": 3384,
+    "days_since_created": 1,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0048",
+    "category": "Home",
+    "status": "Shipped",
+    "order_value_inr": 9014,
+    "days_since_created": 8,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0049",
+    "category": "Home",
+    "status": "Shipped",
+    "order_value_inr": 796,
+    "days_since_created": 7,
+    "delayed_shipment": false
+  },
+  {
+    "record_id": "NYK-0050",
+    "category": "Footwear",
+    "status": "Delivered",
+    "order_value_inr": 22577,
+    "days_since_created": 24,
+    "delayed_shipment": false
+  }
+]

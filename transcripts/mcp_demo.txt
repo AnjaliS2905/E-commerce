@@ -1,0 +1,4 @@
+python mcp_client.py
+NYK-0001 -> status=Placed, order_value_inr=14120, escalation_score=0.653
+NYK-0002 -> status=Shipped, order_value_inr=13287, escalation_score=0.160
+Both MCP tool calls returned is_error=False through HTTP /mcp on port 8001.

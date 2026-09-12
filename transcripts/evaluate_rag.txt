@@ -1,0 +1,5 @@
+python evaluation/evaluate_rag.py
+5 benchmark queries x 2 chunking strategies.
+Fixed-size-overlap: Precision@3 = 0.333 per query; Recall@3 = 1.000 per query.
+Sentence-based:    Precision@3 = 0.333 per query; Recall@3 = 1.000 per query.
+Recommendation: tie; sentence-based kept as default for simplicity.

@@ -1,0 +1,92 @@
+[
+  {
+    "query": "return window",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "COD refund",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "delivery",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "reverse pickup",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "warranty",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "cancellation",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "loyalty",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "payment",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "size exchange",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "damaged",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "international",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "escalation",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  },
+  {
+    "query": "out scope 1",
+    "context_relevance": 1,
+    "groundedness": 4,
+    "answer_relevance": 5
+  },
+  {
+    "query": "out scope 2",
+    "context_relevance": 1,
+    "groundedness": 4,
+    "answer_relevance": 5
+  },
+  {
+    "query": "edge",
+    "context_relevance": 5,
+    "groundedness": 5,
+    "answer_relevance": 5
+  }
+]

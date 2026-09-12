@@ -1,0 +1,4 @@
+python resilience.py
+retry: {'result': 'success', 'calls': 3}
+per-node timeout fired cleanly
+global timeout fired and cancelled run

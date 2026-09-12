@@ -1,0 +1,3 @@
+Warranty Terms by Category
+
+Eligible electronics carry the manufacturer warranty stated on the product listing or invoice, while warranty handling may require an authorized service center. Beauty products generally do not have a manufacturer repair warranty, but defects can be reviewed under the applicable return process. Home, apparel, and footwear warranty or defect handling depends on the product's stated terms and condition.

@@ -1,0 +1,7 @@
+python evaluation/calibrate.py
+IN 'What is the return window for footwear?' 0.5441
+IN 'How long does COD refund take?' 0.7865
+IN 'What is the delivery SLA?' 0.4365
+OUT 'How do I repair my car engine?' 0.3866
+OUT "Who won yesterday's football match?" 0.3593
+Selected threshold: 0.42 (strictly between 0.3866 and 0.4365)

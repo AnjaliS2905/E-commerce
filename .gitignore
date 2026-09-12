@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/chroma/
+data/*.jsonl
+data/memory.json
+data/checkpoints.sqlite

@@ -1,0 +1,5 @@
+run_demo.py smoke-test evidence
+Dataset: 50 records; delayed shipment rate 22.0%.
+RAG query: return window for footwear -> route=rag.
+Order query: NYK-0001 -> route=order_status, status=Placed, escalation_score=0.653.
+Prompt injection -> route=blocked and refusal response.

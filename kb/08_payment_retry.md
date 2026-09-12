@@ -1,0 +1,3 @@
+Payment Failure and Retry Policy
+
+If an online payment fails, the customer should verify the payment method and retry from the order payment flow rather than making repeated payments through unrelated links. A failed attempt should not be treated as a successful order payment until the order shows confirmation. If money was debited but the order is not confirmed, support should investigate the transaction before another attempt.
